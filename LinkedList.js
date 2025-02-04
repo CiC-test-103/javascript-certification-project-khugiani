@@ -1,5 +1,5 @@
-const { Student } = require('./Student'); // Import Student class
-const fs = require('fs').promises; // Import fs for JSON file operations
+const { Student } = require('./Student');
+const fs = require('fs').promises;
 
 /**
  * Node Class (GIVEN, you will need to use this)
