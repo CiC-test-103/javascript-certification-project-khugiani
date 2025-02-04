@@ -1,0 +1,20 @@
+[
+  {
+    "name": "JamilK",
+    "year": 2,
+    "email": "jamilk@gmail.com",
+    "specialization": "informationTechnology"
+  },
+  {
+    "name": "SayedR",
+    "year": 4,
+    "email": "sayedr@hotmail.com",
+    "specialization": "businessAdministration"
+  },
+  {
+    "name": "QaisM",
+    "year": 5,
+    "email": "qaism@outlook.com",
+    "specialization": "electricalEngineer"
+  }
+]
